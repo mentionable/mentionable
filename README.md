@@ -1,9 +1,9 @@
-<center>
+<p align="center">
     Hi, I'm Port! 👋
-</center><center>
+</p><p align="center">
     <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=grey&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mentionable" alt="Total forks">
-    <img src="https://komarev.com/ghpvc/?username=mentionable&color=grey" alt="Total Views">
-</center>
+    <img src="https://komarev.com/ghpvc/?username=TrolledTooMuch&color=grey">
+</p>
 
 ---------------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@
   * [Guilded Generator](https://github.com/mentionable/Guilded-Generator), Bad account generator for guilded.gg; remaking.
 
 * Contact me
-  * [Discord](https://discord.com/user/921158568101699634) - port#001
+  * [Discord](https://discord.com/user/921158568101699634) - port#0001
   * [Telegram](https://t.me/portv1) - portv1
 
 ---------------------------------------------------------------------------------------
