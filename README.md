@@ -9,7 +9,7 @@
 
 * My Interests
   * Python Projects
-  * Discord Tools
+  * Discord API Abusing
   * Watching kids in parks
 
 * Currently Learning
