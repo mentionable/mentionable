@@ -19,7 +19,7 @@
 
 * What I'm Working On
   * [Africa](https://github.com/mentionable/africa), A Remote Access Trojan used for information gathering.
-  * [Guilded Generator](https://github.com/mentionable/Guilded-Generator), Bad account generator for guilded.gg; remaking.
+  * [Guilded Generator](https://github.com/mentionable/Guilded-Generator), Account generator for guilded.gg.
 
 * Contact me
   * [Discord](https://discord.com/user/921158568101699634) - port#0001
