@@ -22,7 +22,7 @@
   * [Guilded Generator](https://github.com/mentionable/Guilded-Generator), Account generator for guilded.gg.
 
 * Contact me
-  * [Discord](https://discord.com/user/921158568101699634) - port#0001
+  * [Discord](https://discord.com/user/927231090152837140)
   * [Telegram](https://t.me/portv1) - portv1
 
 ---------------------------------------------------------------------------------------
