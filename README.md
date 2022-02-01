@@ -13,8 +13,8 @@
   * Watching kids in parks
 
 * Currently Learning
-  * C/C++
-  * SQL
+  * C++
+  * GOLANG
   * HTML/CSS
 
 * What I'm Working On
